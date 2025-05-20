@@ -1,3 +1,6 @@
+> **Étape 0 : Après avoir cloné le projet, modifiez le chemin du SDK Android dans le fichier `android/local.properties` (exemple : `sdk.dir=C:\\Users\\VotreNom\\AppData\\Local\\Android\\Sdk`). Ce chemin doit pointer vers le dossier SDK Android de votre machine, sinon le build Android échouera.
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
